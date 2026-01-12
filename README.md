@@ -28,3 +28,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aarushsoni2022-pixel&show_icons=true&locale=en&layout=compact" alt="aarushsoni2022-pixel" /></p>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
