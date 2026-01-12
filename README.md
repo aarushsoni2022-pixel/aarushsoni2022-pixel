@@ -2,11 +2,10 @@
 <h1 align="center">Hi 👋, I'm Aarush Soni</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align=“right” alt=“coding” width=“400” src=“giphy.gif”>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aarushsoni2022-pixel" alt="aarushsoni2022-pixel" /></a> </p>
 
-- 🌱 I’m currently learning **Data science and machine learning with AI**
+
+- 🌱 I’m currently learning-> **Data science and machine learning with AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aarushsoni2022-pixel](https://github.com/aarushsoni2022-pixel)
 
